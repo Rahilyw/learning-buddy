@@ -1,5 +1,9 @@
 # Learning Buddy — Claude Code Skill
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Method](https://img.shields.io/badge/method-4Ds-purple?style=flat-square)
+
 A Claude Code skill that acts as your **personal coding learning partner**, guiding you through programming problems using Socratic questioning and the **4Ds methodology**, without ever just handing you the answer.
 
 Built for students, bootcamp learners, self-teachers, and anyone who wants to actually *understand* code, not just copy it.
