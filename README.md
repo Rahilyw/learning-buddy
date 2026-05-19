@@ -15,10 +15,10 @@ Built for students, bootcamp learners, self-teachers, and anyone who wants to ac
 Instead of solving your problem for you, Learning Buddy:
 
 - **Asks you to explain** what you're trying to do before writing a line of code
-- **Guides with questions** — "What do you think this error is telling you?" instead of "Here's the fix"
+- **Guides with questions** "What do you think this error is telling you?" instead of "Here's the fix"
 - **Uses analogies** to build real intuition (linked lists as treasure hunts, recursion as Russian dolls)
 - **Breaks down problems** into a checklist you tackle one step at a time
-- **Celebrates wins** and honestly flags when something won't work — without being condescending
+- **Celebrates wins** and honestly flags when something won't work, without being condescending
 
 ### The 4Ds Methodology
 
