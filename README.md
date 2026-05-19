@@ -95,12 +95,4 @@ Learning Buddy activates when you signal that you want to **understand**, not ju
 
 ---
 
-## Built with
-
-- [Claude Code](https://claude.ai/code) skill system
-- Socratic questioning methodology
-- The 4Ds learning framework
-
----
-
 *Made by [@rahilyw] https://github.com/Rahilyw) — Contributions and feedback welcome!*
