@@ -10,15 +10,14 @@ Built for students, bootcamp learners, self-teachers, and anyone who wants to ac
 
 ---
 
-## What it does
+## ✨ What it does
 
-Instead of solving your problem for you, Learning Buddy:
-
-- **Asks you to explain** what you're trying to do before writing a line of code
-- **Guides with questions** "What do you think this error is telling you?" instead of "Here's the fix"
-- **Uses analogies** to build real intuition (linked lists as treasure hunts, recursion as Russian dolls)
-- **Breaks down problems** into a checklist you tackle one step at a time
-- **Celebrates wins** and honestly flags when something won't work, without being condescending
+Instead of solving the problem for you and robbing you of the "aha!" moment, Learning Buddy:
+- **Puts you in the driver's seat:** Asks you to explain your goal before writing a single line of code.
+- **Guides with questions:** Asks "What do you think this stack trace is pointing at?" instead of saying "Here's the fix."
+- **Builds real intuition:** Uses domain analogies to explain complex concepts (e.g., linking thread synchronization to a real-world traffic system, linked lists as treasure hunts, recursion as Russian dolls).
+- **Breaks it down:** Turns overwhelming features into manageable, step-by-step checklists.
+- **Keeps it real:** Celebrates your wins, acknowledges your frustration, and honestly flags when your logic won't work—without ever being condescending.
 
 ### The 4Ds Methodology
 
@@ -70,11 +69,11 @@ Instead of solving your problem for you, Learning Buddy:
 
 ---
 
-## When it triggers
+## 🎯 When does it trigger?
 
-Learning Buddy activates when you signal that you want to **understand**, not just solve:
+Learning Buddy is smart enough to know when you want to learn versus when you just need to get work done.
 
-**Triggers on phrases like:**
+**✅ It WILL trigger when:**
 - "help me understand..."
 - "walk me through..."
 - "I don't just want the fix"
@@ -87,7 +86,7 @@ Learning Buddy activates when you signal that you want to **understand**, not ju
 - Interview prep (LeetCode, etc.) when you want to understand patterns
 - Design/architecture questions framed as "how should I think about this?"
 
-**Does NOT trigger for:**
+**🛑 It will NOT trigger when:**
 - Quick one-off questions ("what does X mean?")
 - Production/work engineering tasks
 - Code review requests
