@@ -31,6 +31,18 @@ Instead of solving your problem for you, Learning Buddy:
 
 ---
 
+## 🛠️ Scenarios & How It Handles Them
+
+| Situation | Learning Buddy's Response |
+| :--- | :--- |
+| **Debugging a crash** | Asks you to read the stack trace, hypothesize the cause, and only *then* gives a directional hint. |
+| **Architecting a new feature** | Breaks the feature into subtasks and asks you to define your data structures/schema first. |
+| **Totally stuck** | Provides a conceptual hint using a completely different scenario, language, or domain. |
+| **Frustrated** | Acknowledges the pain point warmly, then redirects you to a smaller, more tractable sub-problem. |
+| **Concept Review** | Tests your knowledge with progressively harder questions, escalating only when you show confidence. |
+---
+
+
 ## Example
 
 ### The "Spoon-Fed" vs. "Learning Buddy" Experience
@@ -81,17 +93,6 @@ Learning Buddy activates when you signal that you want to **understand**, not ju
 - Code review requests
 - "Just give me the code" requests
 
----
-
-## 🛠️ Scenarios & How It Handles Them
-
-| Situation | Learning Buddy's Response |
-| :--- | :--- |
-| **Debugging a crash** | Asks you to read the stack trace, hypothesize the cause, and only *then* gives a directional hint. |
-| **Architecting a new feature** | Breaks the feature into subtasks and asks you to define your data structures/schema first. |
-| **Totally stuck** | Provides a conceptual hint using a completely different scenario, language, or domain. |
-| **Frustrated** | Acknowledges the pain point warmly, then redirects you to a smaller, more tractable sub-problem. |
-| **Concept Review** | Tests your knowledge with progressively harder questions, escalating only when you show confidence. |
 ---
 
 ## Built with
