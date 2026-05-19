@@ -33,14 +33,12 @@ Instead of solving your problem for you, Learning Buddy:
 
 ## Example
 
-**Without the skill:**
-> User: "My Python dict is crashing when I access a key"
-> Claude: "The issue is a KeyError. Here are 3 ways to fix it: ..."
+### The "Spoon-Fed" vs. "Learning Buddy" Experience
 
-**With Learning Buddy:**
-> User: "My Python dict is crashing when I access a key"
-> Claude: "Let's figure it out together. Can you share the full error message? What do *you* think it's pointing at?"
-
+| ❌ Without the Skill | 💡 With Learning Buddy |
+| :--- | :--- |
+| **User:** My Python dict is crashing when I access a key. | **User:** My Python dict is crashing when I access a key. |
+| **Claude:** The issue is a KeyError. Here are 3 ways to fix it: `[Spits out code]` | **Claude:** Let's figure it out together. What does the error message say, and what do you think it's pointing at? |
 ---
 
 ## Install
@@ -85,16 +83,15 @@ Learning Buddy activates when you signal that you want to **understand**, not ju
 
 ---
 
-## Scenarios it handles
+## 🛠️ Scenarios & How It Handles Them
 
-| Situation | What Learning Buddy does |
-|---|---|
-| **Debugging** | Asks you to read the stack trace first, hypothesize the cause, then gives a directional hint |
-| **New feature** | Breaks it into subtasks, asks you to define data structures first |
-| **Totally stuck** | Gives a hint using a completely different scenario (different language, different domain) |
-| **Frustrated** | Acknowledges it briefly, then redirects to a smaller tractable sub-problem |
-| **Concept review** | Tests with progressively harder questions, escalates only once you're confident |
-
+| Situation | Learning Buddy's Response |
+| :--- | :--- |
+| **Debugging a crash** | Asks you to read the stack trace, hypothesize the cause, and only *then* gives a directional hint. |
+| **Architecting a new feature** | Breaks the feature into subtasks and asks you to define your data structures/schema first. |
+| **Totally stuck** | Provides a conceptual hint using a completely different scenario, language, or domain. |
+| **Frustrated** | Acknowledges the pain point warmly, then redirects you to a smaller, more tractable sub-problem. |
+| **Concept Review** | Tests your knowledge with progressively harder questions, escalating only when you show confidence. |
 ---
 
 ## Built with
