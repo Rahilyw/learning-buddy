@@ -101,4 +101,4 @@ Learning Buddy activates when you signal that you want to **understand**, not ju
 
 ---
 
-*Made by [@rahil](https://github.com/rahil) — contributions and feedback welcome!*
+*Made by [@rahilyw]) — Contributions and feedback welcome!*
